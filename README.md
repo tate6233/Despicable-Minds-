@@ -13,5 +13,7 @@ Design Requirements:
 
 Design Alternatives (Brainstorming): 
   Once we decided on helping firemen pick up the elderly or obese, our group started brainstorming different types of lifts. Our goal was to build a machine that is portable and quick to set up. This machine will make it easier for firemen to lift these people up without straining their legs and backs. So, our group came up with five different design ideas. We looked at all the desings together and looked at the pros and cons of each. We also took into account how costly each design would be. This is important because we are on a $375 budget for the project. After some thought and discussion, we narrowed it down to two designs. Our first design is based on a dolley system where the fallen person is rolled into a sack and pulled upward through a series of pulleys by the firemen. Our second design is based off a machine used on construction sites to lower and higher workers through man holes. Our design consists of four extendable legs for stability and a sling for the person to position themselves on. We emailed Micah, our client, and asked for his opinion on which design he prefers. 
+  
+  
 ![photo](https://cloud.githubusercontent.com/assets/9001064/4530174/57618286-4d7e-11e4-9a9a-c516f5e41c5a.JPG)
 
