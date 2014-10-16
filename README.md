@@ -1,4 +1,4 @@
-Longmont Fire Department Project Report- The "Fally"
+Longmont Fire Department Project Report
 =================
 Background/Client Info:
 -----------------------
@@ -10,14 +10,14 @@ Design Requirements:
 <li>Dimensions: same aize as EMS board or smaller ( 72" x 16" x1.75" )</li>
 <li>Portable</li> 
 <li>Lightweight</li> 
-<li>Set-up time: 5-10 minutes (easy to use)</li>
+<li>Set-up time: 5- 10 minutes (easy to use)</li>
 <li>Budget limit: $375.00 or $75.00 per group member</li> 
-<li>Must be able to fully stand up the victim</li> 
+<li>Must be able to fully statnd up the victim</li> 
 </ol>
 Design Alternatives (Brainstorming):
 --------------------------------------
-  Once we decided on helping firemen pick up the elderly or obese, our group started brainstorming different types of lifts. Our goal was to build a machine that is portable and quick to set up. This machine will make it easier for firemen to lift these people up without straining their legs and backs. So, our group came up with five different design ideas. We looked at all the desings together and looked at the pros and cons of each. We also took into account how costly each design would be. This is important because we are on a $375 budget for the project. After some thought and discussion, we narrowed it down to two designs. Our first design is based on a dolley system where the fallen person is rolled into a sack and pulled upward through a series of pulleys by the firemen. Our second design is based off a machine used on construction sites to lower and higher workers through man holes. Our design consists of four extendable legs for stability and a sling for the person to position themselves on. We emailed Micah, our client, and asked for his opinion on which design he prefers. 
+  We had two main designs that we that we had sketches for and were trying to decide between. Our first design was called the "Fall-y" and is sketched out in picture 1. Our second design is a quad pod lifter and is sketched out in picture 2. We emailed our client Micah Holmes asking which he thought was a better option and he replied and said that we were on the right track for both. We eventually decided on the second design because 
   
   
 ![photo](https://cloud.githubusercontent.com/assets/9001064/4530174/57618286-4d7e-11e4-9a9a-c516f5e41c5a.JPG)
-
+Picture 1
