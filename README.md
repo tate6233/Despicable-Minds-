@@ -6,7 +6,12 @@ Background/Client Info:
 
 Design Requirements:
 ---------------------
-  Our client did not give us many specific requirements or restraints for our design. Regarding it's storage size, Mr. Holmes would like the device to be the same size of an EMS backboard or smaller, which is 72" x 16" x 1.75". He is also concerned about the set-up time, which should take no longer than 5 to 10 minutes. Since our device will be intended for non-emergency situations, the device does not have to be extremely fast to set up. Our budget limit for both the protoype and final product is $375, or $75 per person.
+*Dimensions: same aize as EMS board or smaller ( 72" x 16" x1.75" )
+*Portable 
+*Lightweight 
+*Set-up time: 5- 10 minutes (easy to use)
+*Budget limit: $375.00 or $75.00 per group member 
+*Must be able to fully statnd up the victim 
 
 Design Alternatives (Brainstorming):
 --------------------------------------
