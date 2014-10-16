@@ -1,4 +1,4 @@
-Longmont Fire Department Project Report- The Fally"
+Longmont Fire Department Project Report- The "Fally"
 =================
 Background/Client Info:
 -----------------------
@@ -10,9 +10,9 @@ Design Requirements:
 <li>Dimensions: same aize as EMS board or smaller ( 72" x 16" x1.75" )</li>
 <li>Portable</li> 
 <li>Lightweight</li> 
-<li>Set-up time: 5- 10 minutes (easy to use)</li>
+<li>Set-up time: 5-10 minutes (easy to use)</li>
 <li>Budget limit: $375.00 or $75.00 per group member</li> 
-<li>Must be able to fully statnd up the victim</li> 
+<li>Must be able to fully stand up the victim</li> 
 </ol>
 Design Alternatives (Brainstorming):
 --------------------------------------
