@@ -7,4 +7,4 @@ Resources/Features:
 
 Construction Proccess:
 -------------------------
-   The first thing we constructed for our prototype was the frame for the top. We took one of our pieces of plastic lumber and cut it into four even pieces, all a half a foot long. We then cut the end of each piece at 45 degrees so they would fit together to from a square. The frame was very sturdy after screwing in the brackets on the corners. 
+    The first thing we constructed for our prototype was the frame for the top. We took one of our pieces of plastic lumber and cut it into four even pieces, all a half a foot long. We then cut the end of each piece at 45 degrees so they would fit together to from a square. The frame was very sturdy after screwing in the brackets on the corners. 
