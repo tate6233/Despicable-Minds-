@@ -13,4 +13,4 @@ Construction Proccess:
 
 Fallbacks:
 ---------------------------
-   
+We noticed one fallback of our project while creating our prototype. When struggling with getting the legs to say standing at the correct angle, we realized how hard it would be to get the legs to rotate out and lock while on hinges. A solution for this we will try is connecting a cable between the legsnso that they can only spread outna certain distance from each other. This cable could be removable or attatched. 
