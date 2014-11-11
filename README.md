@@ -27,7 +27,7 @@ Picture 1
 
 Overview of Process and How We Chose Solution:
 -----------------------------------------------
-The quad pod solution was the final design that we chose to manufacture. The advantages of this design over the fall-y design was that we considered the quad-pod design much more centered and stable because the weight would be centered underneath the middle of the frame and lifted by four different ropes, rather than being lifted from one direction with only one rope. The fall-y seemed like a much more "tippy" design.
+The quad pod solution was the final design that we chose to manufacture. The advantages of this design over the fall-y design was that we considered the quad-pod design was much more centered and stable because the weight would be centered underneath the middle of the frame and lifted by four different ropes, rather than being lifted from one direction with only one rope. The fall-y seemed like a much more "tippy" design. The quad-pod is also more versatile because the victimn could either be stood all the way up or put in a wheelchair whereas with the fall-y they can only be stood up. 
 
 Budget/ Bill of Materials: 
 ------------------------------
@@ -48,6 +48,13 @@ Budget/ Bill of Materials:
 Timeline:
 ------------------
 <ol>
-<li>1)Preliminary Design Review: October 9
-<
-<li>
+<li>Preliminary Design Review: October 9
+<li>Prototype Materials Obtained: October 12
+<li>Prototype Finished: October 22
+<li>Prototype Presentation: October 23
+<li>Critical Design Materials Shipped By: October 31
+<li>Critical Component Built: November 5
+<li>Critical Design Report Presentation: November 6
+<li> REST TBD
+
+
