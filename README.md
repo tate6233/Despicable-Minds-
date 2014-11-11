@@ -16,7 +16,7 @@ Design Requirements:
 </ol>
 Design Alternatives (Brainstorming):
 --------------------------------------
-  We had two main designs that we that we had sketches for and were trying to decide between. Our first design was called the "Fall-y" and is sketched out in picture 1. Our second design is a quad pod lifter and is sketched out in picture 2. We emailed our client Micah Holmes asking which he thought was a better option and he replied and said that we were on the right track for both. We eventually decided on the second design because the weight we will be lifting will be much more centered and this design is much more stable overall because it is supported by four legs rather then the two legs only supporting one side on the other design. The second design was also much more effecient because of the cleats. When the firefighters have lifted the victim to the position they want them the cleats will hold the ropes in place, while in the first design they would have to stand there and hold the ropes there themselves. Here are some exsisting products that are similar to ours:
+  We had two main designs that we that we had sketches for and were trying to decide between. Our first design was called the "Fall-y" and is sketched out in picture 1. Our second design is a quad pod lifter and is sketched out in picture 2. We emailed our client Micah Holmes asking which he thought was a better option and he replied and said that we were on the right track for both. We eventually decided on the second design because the weight we will be lifting will be much more centered and this design is much more stable overall because it is supported by four legs rather then the two legs only supporting one side on the other design. The second design was also much more effecient because of the cleats. When the firefighters have lifted the victim to the position they want them the cleats will hold the ropes in place, while in the first design they would have to stand there and hold the ropes there themselves. Here is a exsisting products that are similar to ours:
   The Porta Quad: 
   
   ![photo](http://www.reidlifting.com/wp-content/themes/v1/products/portaquad_.jpg)
@@ -24,3 +24,30 @@ Design Alternatives (Brainstorming):
   
 ![photo](https://cloud.githubusercontent.com/assets/9001064/4530174/57618286-4d7e-11e4-9a9a-c516f5e41c5a.JPG)
 Picture 1
+
+Overview of Process and How We Chose Solution:
+-----------------------------------------------
+The quad pod solution was the final design that we chose to manufacture. The advantages of this design over the fall-y design was that we considered the quad-pod design much more centered and stable because the weight would be centered underneath the middle of the frame and lifted by four different ropes, rather than being lifted from one direction with only one rope. The fall-y seemed like a much more "tippy" design.
+
+Budget/ Bill of Materials: 
+------------------------------
+-Total budget limit: $375.00
+<ol>
+<li>All prototype materials from Resource Yard include: Legs, Rope, Chair Rollers(used for pulleys), old t-shirt, brackets, and screws: $8.00
+<li> Aluminum Tubing: $175.93
+<li> 4 Rope Cleats: $13.88
+<li> 4 Mounted Pulleys: $31.00
+<li> 4 Surface Mount Hinges: $21.20
+<li> 8 Zinc Plated Steel Brackets: $9.84
+<li> Bolts/ Nuts/ Washers/ Securing Pins (all from McGuckins): ????
+<li> Rope: $12.42 +??
+<li> Sling Material: ???
+<li> Shipping: $47.31
+</ol>
+
+Timeline:
+------------------
+<ol>
+<li>1)Preliminary Design Review: October 9
+<
+<li>
