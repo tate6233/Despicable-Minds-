@@ -34,15 +34,16 @@ Budget/ Bill of Materials:
 -Total budget limit: $375.00
 <ol>
 <li>All prototype materials from Resource Yard include: Legs, Rope, Chair Rollers(used for pulleys), old t-shirt, brackets, and screws: $8.00
-<li> Aluminum Tubing: $175.93
-<li> 4 Rope Cleats: $13.88
-<li> 4 Mounted Pulleys: $31.00
-<li> 4 Surface Mount Hinges: $21.20
-<li> 8 Zinc Plated Steel Brackets: $9.84
-<li> Bolts/ Nuts/ Washers/ Securing Pins (all from McGuckins): ????
-<li> Rope: $12.42 +??
-<li> Sling Material: ???
+<li> Aluminum Tubing: $172.93
+<li> 4 Rope Cleats: $12.88
+<li> 4 Mounted Pulleys: $28.50
+<li> 4 Surface Mount Hinges: $20.20
+<li> 8 Zinc Plated Steel Brackets: $7.84
+<li> Bolts/ Nuts/ Washers/ Securing Pins (all from McGuckins): $10.01
+<li> Rope: $15.42
+<li> Sling Material: $2.97
 <li> Shipping: $47.31
+<li> Poster: $35.00
 </ol>
 
 Timeline:
