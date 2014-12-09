@@ -11,6 +11,10 @@ Construction Proccess:
 >
 >**Pully System**: First we drilled holes down in the top of the frame. The pegs on the furniture wheels fit snugly into the holes, and the wheels faced upwards. When laid over the wheels as a pulley, the rope did not stay in the center of the wheel.  We fixed this by gluing two lines on the wheel with a hot glue gun creating a track that the rope follows. The rope was attached to the sling and then brought up through the system of pulleys. We used tape on legs to hold the rope instead of cleats, but cleats will be on the final.
 
+Photo (we apologize for the quality): 
+------------------------------------
+![photo](file:///C:/Users/Eli/Desktop/IMG_0060.PNG)
+
 Fallbacks:
 ---------------------------
 We noticed one fallback of our project while creating our prototype. When struggling with getting the legs to stay standing at the correct angle, we realized how hard it would be to get the legs to rotate out on the corners and lock while on hinges because locking hinges that are compatible with our design were either hard to find or outside of our budget. A solution that we will use to attempt to fix this problem is having a cable or rope run around the outside of the legs at the bottom so they don't slide and will be secure. That way we can just use regular hinges and not a special locking hinge.
