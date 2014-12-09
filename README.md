@@ -23,7 +23,6 @@ Design Alternatives (Brainstorming):
   
   
 ![photo](https://cloud.githubusercontent.com/assets/9001064/4530174/57618286-4d7e-11e4-9a9a-c516f5e41c5a.JPG)
-Picture 1
 
 Overview of Process and How We Chose Solution:
 -----------------------------------------------
