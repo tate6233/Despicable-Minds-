@@ -13,7 +13,7 @@ Construction Proccess:
 
 Photo: 
 ------------------------------------
-![photo](https://drive.google.com/a/colorado.edu/?usp=gmail#my-drive)
+![photo](https://docs.google.com/a/colorado.edu/file/d/0BwzuJNCrSZlqcFpaRDdlTmRSLTJJTDZ3Y1ozLXFOcEJCc1pz/edit)
 
 Fallbacks:
 ---------------------------
