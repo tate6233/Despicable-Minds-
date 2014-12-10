@@ -11,12 +11,9 @@ Construction Proccess:
 >
 >**Pully System**: First we drilled holes down in the top of the frame. The pegs on the furniture wheels fit snugly into the holes, and the wheels faced upwards. When laid over the wheels as a pulley, the rope did not stay in the center of the wheel.  We fixed this by gluing two lines on the wheel with a hot glue gun creating a track that the rope follows. The rope was attached to the sling and then brought up through the system of pulleys. We used tape on legs to hold the rope instead of cleats, but cleats will be on the final.
 
-Photo (we apologize for the quality): 
+Photo: 
 ------------------------------------
-git add file:///C:/Users/Eli/Desktop/IMG_0060.PNG
-git commit -m 'add png file'
-git remote add origin https://github.com/file:///C:/Users/Eli/Desktop/IMG_0060.git
-git push -u origin master
+
 
 Fallbacks:
 ---------------------------
