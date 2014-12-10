@@ -13,7 +13,10 @@ Construction Proccess:
 
 Photo (we apologize for the quality): 
 ------------------------------------
-![photo](file:///C:/Users/Eli/Desktop/IMG_0060.PNG)
+git add file:///C:/Users/Eli/Desktop/IMG_0060.PNG
+git commit -m 'add png file'
+git remote add origin https://github.com/file:///C:/Users/Eli/Desktop/IMG_0060.git
+git push -u origin master
 
 Fallbacks:
 ---------------------------
