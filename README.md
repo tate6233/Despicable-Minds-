@@ -67,6 +67,10 @@ Timeline:
 <li>Hardware Bazzar(present finished product to class): November 20
 <li>Design Expo: December 6
 
+
+Final Design
+--------------------------
+
 Analysis And Testing 
 -------------------------
 Critical Part: Main frame of the quadpod with the top square frame and legs with hinges attatched.
