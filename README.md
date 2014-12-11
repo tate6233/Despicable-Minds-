@@ -25,7 +25,7 @@ Design Alternatives (Brainstorming):
   ![photo](https://cloud.githubusercontent.com/assets/9001064/4530174/57618286-4d7e-11e4-9a9a-c516f5e41c5a.JPG)
   Picture 2
   ![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/falling%20drawing.png)
-  (above is a picture of a similar product to our own)
+  (to the right is a picture of a similar product to our own)
   ![photo](http://www.reidlifting.com/wp-content/themes/v1/products/portaquad_.jpg)
   
   
@@ -33,7 +33,9 @@ Design Alternatives (Brainstorming):
 
 Overview of Process and How We Chose Solution:
 -----------------------------------------------
-The quad pod solution was the final design that we chose to manufacture. The advantages of this design over the fall-y design was that we considered the quad-pod design was much more centered and stable because the weight would be centered underneath the middle of the frame and lifted by four different ropes, rather than being lifted from one direction with only one rope. The fall-y seemed like a much more "tippy" design. The quad-pod is also more versatile because the victimn could either be stood all the way up or put in a wheelchair whereas with the fall-y they can only be stood up. 
+The quad pod solution was the final design that we chose to manufacture. The advantages of this design over the fall-y design was that we considered the quad-pod design was much more centered and stable because the weight would be centered underneath the middle of the frame and lifted by four different ropes, rather than being lifted from one direction with only one rope. The fall-y seemed like a much less stable design. The quad-pod is also more versatile because the victimn could either be stood all the way up or put in a wheelchair whereas with the fall-y they can only be stood up. Below are solid works images portraying our vision for the final product:
+![photo](
+![photo](
 
 Budget/ Bill of Materials: 
 ------------------------------
