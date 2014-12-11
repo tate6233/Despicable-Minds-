@@ -59,7 +59,8 @@ Timeline:
 <li>Critical Design Materials Shipped By: October 31
 <li>Critical Component Built: November 5
 <li>Critical Design Report Presentation: November 6
-<li> REST TBD
+<li>Hardware Bazzar(present finished product to class): November 20
+<li>Design Expo: December 6
 
 Analysis And Testing 
 -------------------------
