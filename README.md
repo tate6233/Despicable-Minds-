@@ -70,5 +70,5 @@ Despite that our device was functional, it still had a few aspects that could be
      
 Calculations
 ---------------------------------
-
+![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/4be263c8f28b018d391d88fafff8a4e8.png)
 
