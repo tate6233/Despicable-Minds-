@@ -20,14 +20,14 @@ Design Requirements:
 </ol>
 Design Alternatives (Brainstorming):
 --------------------------------------
-  We had two main designs that we that we had sketches for and were trying to decide between. Our first design was called the "Fall-y" and is sketched out in picture 1. Our second design is a quad pod lifter and is sketched out in picture 2. We emailed our client Micah Holmes asking which he thought was a better option and he replied and said that we were on the right track for both. We eventually decided on the second design because the weight we will be lifting will be much more centered and this design is much more stable overall because it is supported by four legs rather then the two legs only supporting one side on the other design. The second design was also much more effecient because of the cleats. When the firefighters have lifted the victim to the position they want them the cleats will hold the ropes in place, while in the first design they would have to stand there and hold the ropes there themselves. Here is a exsisting products that are similar to ours:
-  The Porta Quad: 
-  
-  ![photo](http://www.reidlifting.com/wp-content/themes/v1/products/portaquad_.jpg)
-  
-  
-![photo](https://cloud.githubusercontent.com/assets/9001064/4530174/57618286-4d7e-11e4-9a9a-c516f5e41c5a.JPG)
+  We had two main designs that we that we had sketches for and were trying to decide between. Our first design was called the "Fall-y" and is sketched out in picture 1. Our second design is a quad pod lifter and is sketched out in picture 2. We emailed our client Micah Holmes asking which he thought was a better option and he replied and said that we were on the right track for both. We eventually decided on the second design because the weight we will be lifting will be much more centered and this design is much more stable overall because it is supported by four legs rather then the two legs only supporting one side on the other design. The second design was also much more effecient because of the cleats. When the firefighters have lifted the victim to the position they want them the cleats will hold the ropes in place, while in the first design they would have to stand there and hold the ropes there themselves.
 
+![photo](https://cloud.githubusercontent.com/assets/9001064/4530174/57618286-4d7e-11e4-9a9a-c516f5e41c5a.JPG)
+(Picture 1)
+![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/falling%20drawing.png)
+(Picture 2)
+![photo](http://www.reidlifting.com/wp-content/themes/v1/products/portaquad_.jpg)
+ (Above is a similar product to ours)
 Overview of Process and How We Chose Solution:
 -----------------------------------------------
 The quad pod solution was the final design that we chose to manufacture. The advantages of this design over the fall-y design was that we considered the quad-pod design was much more centered and stable because the weight would be centered underneath the middle of the frame and lifted by four different ropes, rather than being lifted from one direction with only one rope. The fall-y seemed like a much more "tippy" design. The quad-pod is also more versatile because the victimn could either be stood all the way up or put in a wheelchair whereas with the fall-y they can only be stood up. 
