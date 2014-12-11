@@ -25,7 +25,7 @@ Design Alternatives (Brainstorming):
   ![photo](https://cloud.githubusercontent.com/assets/9001064/4530174/57618286-4d7e-11e4-9a9a-c516f5e41c5a.JPG)
   Picture 2
   ![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/falling%20drawing.png)
-  (below is a picture of a similar product to our own)
+  (this is a picture of a similar product to our own)
   ![photo](http://www.reidlifting.com/wp-content/themes/v1/products/portaquad_.jpg)
   
   
@@ -70,13 +70,10 @@ Timeline:
 
 Final Design
 --------------------------
-Below is the first step in putting the frame together
-![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/IMG_0062.JPG)
-The next image shows all the components for the frame
+The images below show how the frame fits together, and all the components that attatch to it. The last picture shows the final product with the legs attatched to the frame, as well as the rope and sling pully system. ![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/IMG_0062.JPG)
 ![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/IMG_0061.JPG)
-Once the legs were attatched to the completed frame we were able to set up the rope system with the pullys and attatch the sling, as shown below
 ![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/IMG_0063.JPG)
-Analysis And Testing 
+
 -------------------------
 Critical Part: Main frame of the quadpod with the top square frame and legs with hinges attatched.
      -Once the sling was attatched and we tested it with a user we found that the quadpod wanted to twist in on itself because the hinges were unstable. We replaced the hinges which made the structure much more stable and we were able to lift someone far enough off of the ground to get them into standing position.
