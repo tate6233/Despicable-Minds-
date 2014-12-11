@@ -23,8 +23,9 @@ Design Alternatives (Brainstorming):
   We had two main designs that we that we had sketches for and were trying to decide between. Our first design was called the "Fall-y" and is sketched out in picture 1. Our second design is a quad pod lifter and is sketched out in picture 2. We emailed our client Micah Holmes asking which he thought was a better option and he replied and said that we were on the right track for both. We eventually decided on the second design because the weight we will be lifting will be much more centered and this design is much more stable overall because it is supported by four legs rather then the two legs only supporting one side on the other design. The second design was also much more effecient because of the cleats. When the firefighters have lifted the victim to the position they want them the cleats will hold the ropes in place, while in the first design they would have to stand there and hold the ropes there themselves.
   Picture 1
   ![photo](https://cloud.githubusercontent.com/assets/9001064/4530174/57618286-4d7e-11e4-9a9a-c516f5e41c5a.JPG)
-  
-  
+  Picture 2
+  ![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/falling%20drawing.png)
+  (above is a picture of a similar product to our own)
   ![photo](http://www.reidlifting.com/wp-content/themes/v1/products/portaquad_.jpg)
   
   
