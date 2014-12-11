@@ -71,7 +71,9 @@ Timeline:
 Final Design
 --------------------------
 ![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/IMG_0062.JPG)
-Above is a picture showing how the top frame fit together
+Above is a picture showing how the top frame fit together, and the image below shows all the components for the frame
+![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/IMG_0061.JPG)
+Once the legs were attatched to the completed frame we were able to set up the rope system with the pullys and attatch the sling, as shown below
 ![photo](
 Analysis And Testing 
 -------------------------
