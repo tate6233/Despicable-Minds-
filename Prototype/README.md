@@ -13,7 +13,7 @@ Construction Proccess:
 
 Photo: 
 ------------------------------------
-![photo](https://docs.google.com/a/colorado.edu/file/d/0BwzuJNCrSZlqcFpaRDdlTmRSLTJJTDZ3Y1ozLXFOcEJCc1pz/edit)
+![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/Prototype/IMG_0060.PNG)
 
 Fallbacks:
 ---------------------------
