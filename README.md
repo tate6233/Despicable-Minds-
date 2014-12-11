@@ -25,7 +25,7 @@ Picture 1
 ![photo](https://cloud.githubusercontent.com/assets/9001064/4530174/57618286-4d7e-11e4-9a9a-c516f5e41c5a.JPG)
 Picture 2
 ![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/falling%20drawing.png)
-(below is a similar product to our own)
+(above is a similar product to our own)
 ![photo](http://www.reidlifting.com/wp-content/themes/v1/products/portaquad_.jpg)
 Overview of Process and How We Chose Solution:
 -----------------------------------------------
