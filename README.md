@@ -72,5 +72,6 @@ Despite that our device was functional, it still had a few aspects that could ha
      
 Calculations
 ---------------------------------
+![photo](http://upload.wikimedia.org/wikipedia/en/math/4/b/e/4be263c8f28b018d391d88fafff8a4e8.png)
 To find the maximun wieght that our device could support, we had to use the following equation to find the buckling force of one of device's legs.  After finding that, we plugged it in to Fcos(12.17) since the legs were 89 inches and the device's height was 87 inches, and that gave us the force one leg couold hold when the device is fully extended.  After multiplying that by four, we got the maximum weight that our device could support which is 926.7 lbs.
 
