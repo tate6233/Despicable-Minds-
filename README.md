@@ -20,13 +20,14 @@ Design Requirements:
 </ol>
 Design Alternatives (Brainstorming):
 --------------------------------------
-  We had two main designs that we that we had sketches for and were trying to decide between. Our first design was called the "Fall-y" and is sketched out in picture 1. Our second design is a quad pod lifter and is sketched out in picture 2. We emailed our client Micah Holmes asking which he thought was a better option and he replied and said that we were on the right track for both. We eventually decided on the second design because the weight we will be lifting will be much more centered and this design is much more stable overall because it is supported by four legs rather then the two legs only supporting one side on the other design. The second design was also much more effecient because of the cleats. When the firefighters have lifted the victim to the position they want them the cleats will hold the ropes in place, while in the first design they would have to stand there and hold the ropes there themselves.
-Picture 1
+  We had two main designs that we that we had sketches for and were trying to decide between. Our first design was called the "Fall-y" and is sketched out in picture 1. Our second design is a quad pod lifter and is sketched out in picture 2. We emailed our client Micah Holmes asking which he thought was a better option and he replied and said that we were on the right track for both. We eventually decided on the second design because the weight we will be lifting will be much more centered and this design is much more stable overall because it is supported by four legs rather then the two legs only supporting one side on the other design. The second design was also much more effecient because of the cleats. When the firefighters have lifted the victim to the position they want them the cleats will hold the ropes in place, while in the first design they would have to stand there and hold the ropes there themselves. Here is a exsisting products that are similar to ours:
+  The Porta Quad: 
+  
+  ![photo](http://www.reidlifting.com/wp-content/themes/v1/products/portaquad_.jpg)
+  
+  
 ![photo](https://cloud.githubusercontent.com/assets/9001064/4530174/57618286-4d7e-11e4-9a9a-c516f5e41c5a.JPG)
-Picture 2
-![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/falling%20drawing.png)
-(above is a similar product to our own)
-![photo](http://www.reidlifting.com/wp-content/themes/v1/products/portaquad_.jpg)
+
 Overview of Process and How We Chose Solution:
 -----------------------------------------------
 The quad pod solution was the final design that we chose to manufacture. The advantages of this design over the fall-y design was that we considered the quad-pod design was much more centered and stable because the weight would be centered underneath the middle of the frame and lifted by four different ropes, rather than being lifted from one direction with only one rope. The fall-y seemed like a much more "tippy" design. The quad-pod is also more versatile because the victimn could either be stood all the way up or put in a wheelchair whereas with the fall-y they can only be stood up. 
@@ -66,9 +67,9 @@ Critical Part: Main frame of the quadpod with the top square frame and legs with
      -Once the sling was attatched and we tested it with a user we found that the quadpod wanted to twist in on itself because the hinges were unstable. We replaced the hinges which made the structure much more stable and we were able to lift someone far enough off of the ground to get them into standing position.
 Conclusion
 ------------------------------------------------
-Despite that our device was functional, it still had a few aspects that could be better.  We were able to upgrade the hinges that made the structure more stable, but they could still be stronger.  The pulleys could have a deeper track so the rope does not fall out, and the pulleys could be taller so that the rope on the puller's side does not rub against the top frame.  A pulley added to where the ropes attach to the sling would have made a good pulley system that would have cut the force needed to lift the person in half or by more.  The sling should have been made of a stronger, more comfortable material instead of painter's tarp.  All of these problems would have been easily solved if our budget allowed it.  
+Despite that our device was functional, it still had a few aspects that could have been better.  We were able to upgrade the hinges that made the structure more stable, but they could still be stronger.  The pulleys could have a deeper track so the rope does not fall out, and the pulleys could be taller so that the rope on the puller's side does not rub against the top frame.  A pulley added to where the ropes attach to the sling would have made a good pulley system that would have cut the force needed to lift the person in half or by more.  The sling should have been made of a stronger, more comfortable material instead of painter's tarp.  All of these problems would have been easily solved if our budget allowed it.  
      
 Calculations
 ---------------------------------
-![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/4be263c8f28b018d391d88fafff8a4e8.png)
+To find the maximun wieght that our device could support, we had to use the following equation to find the buckling force of one of device's legs.  After finding that, we plugged it in to Fcos(12.17) since the legs were 89 inches and the device's height was 87 inches, and that gave us the force one leg couold hold when the device is fully extended.  After multiplying that by four, we got the maximum weight that our device could support which is 926.7 lbs.
 
