@@ -26,7 +26,9 @@ Design Alternatives (Brainstorming):
 
 Overview of Process and How We Chose Solution:
 -----------------------------------------------
-The quad pod solution was the final design that we chose to manufacture. The advantages of this design over the fall-y design was that we considered the quad-pod design was much more centered and stable because the weight would be centered underneath the middle of the frame and lifted by four different ropes, rather than being lifted from one direction with only one rope. The fall-y seemed like a much more "tippy" design. The quad-pod is also more versatile because the victimn could either be stood all the way up or put in a wheelchair whereas with the fall-y they can only be stood up. 
+The quad pod solution was the final design that we chose to manufacture. The advantages of this design over the fall-y design was that we considered the quad-pod design was much more centered and stable because the weight would be centered underneath the middle of the frame and lifted by four different ropes, rather than being lifted from one direction with only one rope. The fall-y seemed like a much more "tippy" design. The quad-pod is also more versatile because the victimn could either be stood all the way up or put in a wheelchair whereas with the fall-y they can only be stood up. Below are solid work images of our vision for the final design:
+
+![photo](
 
 Budget/ Bill of Materials: 
 ------------------------------
