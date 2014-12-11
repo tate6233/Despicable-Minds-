@@ -70,7 +70,9 @@ Timeline:
 
 Final Design
 --------------------------
-
+![photo](https://github.com/tate6233/Despicable-Minds-/blob/master/New%20folder/IMG_0062.JPG)
+Above is a picture showing how the top frame fit together
+![photo](
 Analysis And Testing 
 -------------------------
 Critical Part: Main frame of the quadpod with the top square frame and legs with hinges attatched.
